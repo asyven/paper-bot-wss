@@ -1,0 +1,21 @@
+{
+  "name": "paper-bot-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chance": "^1.1.5",
+    "http-proxy": "^1.18.1",
+    "request": "latest",
+    "ws": "^7.3.0"
+  },
+  "dependencies": {
+    "socks-proxy-agent": "^5.0.0"
+  }
+}

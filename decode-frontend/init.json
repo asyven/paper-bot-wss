@@ -1,0 +1,222 @@
+[
+  "init",
+  {
+    "user": {
+      "user_id": 539495615,
+      "first_name": "Антон",
+      "last_name": "Соколов",
+      "avatar": "https://vk.com/images/camera_100.png?ava=1",
+      "avatar_max": "https://vk.com/images/camera_200.png?ava=1",
+      "balance": 202003928,
+      "earned_balance": 334949556,
+      "vkcoin_balance": 8047,
+      "bonuses_sum": 0,
+      "improvements_sum": 123328,
+      "is_onboard_completed": true,
+      "is_extended_animation_disabled": false,
+      "is_infected": false,
+      "can_be_infected": false,
+      "last_infection_date": 0,
+      "offline_died": false,
+      "achievement_tooltip_used": false,
+      "referer_id": 0,
+      "infections_count": 0,
+      "recoveries_count": 0,
+      "salvations_count": 0,
+      "infected_count": 0,
+      "are_notifications_enabled": false
+    },
+    "group": null,
+    "config": {
+      "app_id": 7420483,
+      "group_id": 194441652,
+      "merchant_id": 595626484,
+      "merchant_exchange_payload": 1000,
+      "broadcast_id": "video-194441652_456239031"
+    },
+    "bonuses": [
+      {
+        "type_id": 1,
+        "name": "Стилус",
+        "icon": "writing_hand",
+        "speed": 3,
+        "cost": 35,
+        "earned_filter": 45,
+        "current_count": 0
+      },
+      {
+        "type_id": 2,
+        "name": "Тачскрин-перчатки",
+        "icon": "gloves",
+        "speed": 12,
+        "cost": 350,
+        "earned_filter": 450,
+        "current_count": 0
+      },
+      {
+        "type_id": 3,
+        "name": "Двухслойная бумага",
+        "icon": "paper",
+        "speed": 48,
+        "cost": 3500,
+        "earned_filter": 4500,
+        "current_count": 0
+      },
+      {
+        "type_id": 4,
+        "name": "Мультитач",
+        "icon": "victory_hand",
+        "speed": 192,
+        "cost": 35000,
+        "earned_filter": 45000,
+        "current_count": 0
+      },
+      {
+        "type_id": 5,
+        "name": "Тренированная кисть",
+        "icon": "waving_hand_sign",
+        "speed": 768,
+        "cost": 350000,
+        "earned_filter": 450000,
+        "current_count": 0
+      },
+      {
+        "type_id": 6,
+        "name": "Третья рука",
+        "icon": "selfie",
+        "speed": 3072,
+        "cost": 3500000,
+        "earned_filter": 4500000,
+        "current_count": 0
+      },
+      {
+        "type_id": 7,
+        "name": "Внеземная выносливость",
+        "icon": "raised_hand_with_part",
+        "speed": 12888,
+        "cost": 35000000,
+        "earned_filter": 45000000,
+        "current_count": 0
+      },
+      {
+        "type_id": 8,
+        "name": "Рулон делюкс",
+        "icon": "dizzy_symbol",
+        "speed": 49152,
+        "cost": 350000000,
+        "earned_filter": 450000000,
+        "current_count": 0
+      },
+      {
+        "type_id": 9,
+        "name": "Роборука",
+        "icon": "mechanical_arm",
+        "speed": 196608,
+        "cost": 3500000000,
+        "earned_filter": 4500000000,
+        "current_count": 0
+      },
+      {
+        "type_id": 10,
+        "name": "Свайпающая нейросеть",
+        "icon": "alien_monster",
+        "speed": 786432,
+        "cost": 35000000000,
+        "earned_filter": 45000000000,
+        "current_count": 0
+      },
+      {
+        "type_id": 11,
+        "name": "Искусственный интеллект ",
+        "icon": "brain",
+        "speed": 3145728,
+        "cost": 350000000000,
+        "earned_filter": 450000000000,
+        "current_count": 0
+      }
+    ],
+    "improvements": [
+      {
+        "type_id": 1,
+        "name": "Тростник",
+        "description": "Возвращаемся к истокам",
+        "icon": "tanabata",
+        "speed": 1,
+        "current_count": 32,
+        "current_cost": 12943196
+      },
+      {
+        "type_id": 2,
+        "name": "Коробки с почты",
+        "description": "Заказываю китайский хлам только ради коробок!",
+        "icon": "package",
+        "speed": 3,
+        "current_count": 22,
+        "current_cost": 1870457
+      },
+      {
+        "type_id": 3,
+        "name": "Контейнер макулатуры",
+        "description": "Я сам переработаю эту бумагу, спасибо",
+        "icon": "recycle",
+        "speed": 10,
+        "current_count": 19,
+        "current_cost": 5542095
+      },
+      {
+        "type_id": 4,
+        "name": "Принтер",
+        "description": "А зачем ещё сейчас нужен принтер?",
+        "icon": "printer",
+        "speed": 30,
+        "current_count": 18,
+        "current_cost": 14778919
+      },
+      {
+        "type_id": 5,
+        "name": "Газетный киоск",
+        "description": "Не очень интересно, что там пишут, зато бумаги много",
+        "icon": "newspaper",
+        "speed": 100,
+        "current_count": 15,
+        "current_cost": 21894695
+      },
+      {
+        "type_id": 6,
+        "name": "Лесопилка",
+        "description": "Древесная кора тоже подойдет для ваших целей",
+        "icon": "camping",
+        "speed": 500,
+        "current_count": 6,
+        "current_cost": 2847656
+      },
+      {
+        "type_id": 7,
+        "name": "Бумажный завод",
+        "description": "Качественное производство для самых зажиточных",
+        "icon": "factory",
+        "speed": 1000,
+        "current_count": 6,
+        "current_cost": 11390625
+      },
+      {
+        "type_id": 8,
+        "name": "Библиотека",
+        "description": "Вон те пыльные книги уже никто не читает",
+        "icon": "library",
+        "speed": 3000,
+        "current_count": 4,
+        "current_cost": 50625000
+      },
+      {
+        "type_id": 9,
+        "name": "Банк",
+        "description": "Все равно этими бумажками теперь никто не пользуется",
+        "icon": "bank",
+        "speed": 10000,
+        "current_count": 10,
+        "current_cost": 2883251953
+      }
+    ]
+  }
+]

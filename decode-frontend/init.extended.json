@@ -1,0 +1,144 @@
+[
+  "init:extended",
+  {
+    "items": [
+      {
+        "type_id": 1,
+        "name": "Тест на вирус",
+        "description": "Позволяет точно узнать свой статус заболевания",
+        "icon": "tube",
+        "cost": 5000000,
+        "current_count": 0
+      },
+      {
+        "type_id": 2,
+        "name": "Лекарство",
+        "description": "Излечивает с вероятностью 90%",
+        "icon": "pill",
+        "cost": 10000000,
+        "current_count": 0
+      }
+    ],
+    "disinfectants": [
+      {
+        "type_id": 1,
+        "name": "Маска",
+        "name_gen": "Маски",
+        "icon": "mask",
+        "protection": "infection",
+        "cost": 1000000,
+        "life_time": 14400,
+        "chance_reduction": 30,
+        "current_count": 0,
+        "is_active": false,
+        "activate_date": 0
+      },
+      {
+        "type_id": 2,
+        "name": "Антисептик",
+        "name_gen": "Антисептика",
+        "icon": "lotion",
+        "protection": "infection",
+        "cost": 5000000,
+        "life_time": 43200,
+        "chance_reduction": 50,
+        "current_count": 1,
+        "is_active": false,
+        "activate_date": 0
+      },
+      {
+        "type_id": 3,
+        "name": "Защита от кражи",
+        "name_gen": "Защиты от кражи",
+        "icon": "lock",
+        "protection": "steal",
+        "cost": 5000000000,
+        "life_time": 21600,
+        "chance_reduction": 100,
+        "current_count": 0,
+        "is_active": false,
+        "activate_date": 0
+      }
+    ],
+    "transfers": [
+      {
+        "transfer_id": 346704,
+        "user_id": 539495615,
+        "peer_id": 232590334,
+        "external_id": 346705,
+        "is_initiator": true,
+        "type": "steal",
+        "object_type": "balance",
+        "object_type_id": 0,
+        "amount": 194161000,
+        "create_date": 1589830786
+      },
+      {
+        "transfer_id": 346674,
+        "user_id": 539495615,
+        "peer_id": 254496043,
+        "external_id": 346675,
+        "is_initiator": true,
+        "type": "steal",
+        "object_type": "balance",
+        "object_type_id": 0,
+        "amount": 5473047000,
+        "create_date": 1589830746
+      },
+      {
+        "transfer_id": 346619,
+        "user_id": 539495615,
+        "peer_id": 572996088,
+        "external_id": 346620,
+        "is_initiator": true,
+        "type": "steal",
+        "object_type": "balance",
+        "object_type_id": 0,
+        "amount": 87510000,
+        "create_date": 1589830179
+      }
+    ],
+    "achievements": [
+      {
+        "category_id": 1,
+        "name": "Накопительные",
+        "icon": "toilet",
+        "achievements_count": 11,
+        "received_achievements_count": 8,
+        "undisclosed_achievements_count": 3
+      },
+      {
+        "category_id": 2,
+        "name": "Социальные",
+        "icon": "dancer",
+        "achievements_count": 9,
+        "received_achievements_count": 0,
+        "undisclosed_achievements_count": 7
+      },
+      {
+        "category_id": 3,
+        "name": "Скоростные",
+        "icon": "rocket",
+        "achievements_count": 4,
+        "received_achievements_count": 0,
+        "undisclosed_achievements_count": 2
+      },
+      {
+        "category_id": 4,
+        "name": "Временные",
+        "icon": "stopwatch",
+        "achievements_count": 5,
+        "received_achievements_count": 2,
+        "undisclosed_achievements_count": 2
+      },
+      {
+        "category_id": 5,
+        "name": "Экосистемные",
+        "icon": "face_with_monocle",
+        "achievements_count": 5,
+        "received_achievements_count": 0,
+        "undisclosed_achievements_count": 1
+      }
+    ]
+  }
+]
