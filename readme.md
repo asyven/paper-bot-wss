@@ -4,7 +4,7 @@
 Поддерживает разные типов ботов (stealer, miner, infected, storage), автопокупка улучшений и бонусов, автозаражение топов, автоворовство, передача баланса цепочкой и тд.
 
 Установка:
- - `git clone https://github.com/asyven/paper-bot-ws.git`
+ - `git clone https://github.com/asyven/paper-bot-wss.git`
  - `npm install`
  - настроить `config.js`
 
