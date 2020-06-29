@@ -12,7 +12,7 @@
 Переименовать `example.config.js` в `config.js` (там же и описание некоторых параметров) и настройте `config.js` после чего запустите `node cluster.js`
 
 Или же 1 файл, но нужно указывать все параметры запуска с файла конфига:
-`node index,js -id 123 -wss wss://paper-scroll.ru/socket?vk_acces... -role stealer`
+`node index.js -id 123 -wss wss://paper-scroll.ru/socket?vk_acces... -role stealer`
 
 Так же сделан дебандл минифицированного файла клиентской части, он находится `decode-fronted/dist/0.js`.
 
